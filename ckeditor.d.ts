@@ -1,1 +1,1 @@
-declare module '@ckeditor/ckeditor5-build-digipop/build/ckeditor';
+declare module '@ckeditor/ckeditor5-build-digipop';
