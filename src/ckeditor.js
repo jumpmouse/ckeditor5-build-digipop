@@ -48,6 +48,7 @@ import Title from '@ckeditor/ckeditor5-heading/src/title.js';
 import WordCount from '@ckeditor/ckeditor5-word-count/src/wordcount.js';
 import Essentials from '@ckeditor/ckeditor5-essentials/src/essentials.js';
 import Paragraph from '@ckeditor/ckeditor5-paragraph/src/paragraph.js';
+import Base64UploadAdapter from '@ckeditor/ckeditor5-upload/src/adapters/base64uploadadapter';
 
 export default class Editor extends DecoupledDocumentEditor {}
 
@@ -97,6 +98,7 @@ Editor.builtinPlugins = [
 	Title,
 	WordCount,
 	Essentials,
-	Paragraph
+	Paragraph,
+	Base64UploadAdapter
 ];
 

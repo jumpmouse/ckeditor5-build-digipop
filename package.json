@@ -33,6 +33,7 @@
     "@ckeditor/ckeditor5-special-characters": "^17.0.0",
     "@ckeditor/ckeditor5-table": "^17.0.0",
     "@ckeditor/ckeditor5-theme-lark": "^17.0.0",
+    "@ckeditor/ckeditor5-upload": "^17.0.0",
     "@ckeditor/ckeditor5-word-count": "^17.0.0",
     "postcss-loader": "^3.0.0",
     "raw-loader": "^3.1.0",
